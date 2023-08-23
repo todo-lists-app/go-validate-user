@@ -1,6 +1,6 @@
 module github.com/todo-lists-app/go-validate-user
 
-go 1.21.0
+go 1.21
 
 require (
 	github.com/bugfixes/go-bugfixes v0.9.7
