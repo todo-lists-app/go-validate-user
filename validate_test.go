@@ -2,11 +2,12 @@ package go_validate_user
 
 import (
 	"context"
+	"testing"
+
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	pb "github.com/todo-lists-app/protobufs/generated/id_checker/v1"
 	"google.golang.org/grpc"
-	"testing"
 )
 
 type MockIdCheckerServiceClient struct {
