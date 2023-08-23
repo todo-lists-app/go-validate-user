@@ -21,10 +21,6 @@ jobs:
       - uses: actions/checkout@v1
         with:
           fetch-depth: 1
-      - name: fix dependencies
-        run: |
-          go get ./...
-          go mod tidy
       - name: test
         run: go test -v -race -bench=./... -benchmem -timeout=120s -bench=./... ./...
   automerge:
