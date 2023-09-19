@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/bugfixes/go-bugfixes v0.9.7
 	github.com/stretchr/testify v1.8.4
-	github.com/todo-lists-app/protobufs v0.1.0
+	github.com/todo-lists-app/protobufs v0.1.2
 	google.golang.org/grpc v1.58.1
 )
 
