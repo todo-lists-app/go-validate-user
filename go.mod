@@ -6,7 +6,7 @@ require (
 	github.com/bugfixes/go-bugfixes v0.9.8
 	github.com/stretchr/testify v1.8.4
 	github.com/todo-lists-app/protobufs v0.1.2
-	google.golang.org/grpc v1.60.0
+	google.golang.org/grpc v1.60.1
 )
 
 require (
