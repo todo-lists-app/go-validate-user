@@ -1,5 +1,5 @@
-github.com/bugfixes/go-bugfixes v0.11.0 h1:62CETDSObQ5HcBn9juvadkiXP/MEWXF1lKYQuC/9rxs=
-github.com/bugfixes/go-bugfixes v0.11.0/go.mod h1:jEzX2MX2jY+65S85Dh59rmxZEMLzSpFMt75QTOHDvyo=
+github.com/bugfixes/go-bugfixes v0.12.2 h1:dntOz0Q4NzGqQcOdN3MtueQiPJv8eruNDzD005ypy/k=
+github.com/bugfixes/go-bugfixes v0.12.2/go.mod h1:jEzX2MX2jY+65S85Dh59rmxZEMLzSpFMt75QTOHDvyo=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/go-logfmt/logfmt v0.6.0 h1:wGYYu3uicYdqXVgoYbvnkrPVXkuLM1p1ifugDMEdRi4=
