@@ -3,7 +3,7 @@ module github.com/todo-lists-app/go-validate-user
 go 1.21
 
 require (
-	github.com/bugfixes/go-bugfixes v0.11.0
+	github.com/bugfixes/go-bugfixes v0.12.2
 	github.com/stretchr/testify v1.9.0
 	github.com/todo-lists-app/protobufs v0.1.2
 	google.golang.org/grpc v1.63.2
